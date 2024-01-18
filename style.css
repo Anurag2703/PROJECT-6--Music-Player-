@@ -217,7 +217,7 @@ p {
     }
 
     .buttons {
-        flex-direction: column;
+        flex-direction: row;
         margin-bottom: 10px;
     }
 
